@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning models and algorithms.
+Datasets used in the machine learning models and algorithms.
